@@ -118,4 +118,5 @@ scripts/                Build helper scripts
 ## Notes
 
 - This app is an unofficial client and uses your own Shodan account/API access.
-- Respect Shodan’s terms of service and applicable laws when querying infrastructure data.
+- Respect Shodan’s terms of service and applicable laws when querying infrastructure data. camera
+camera access
