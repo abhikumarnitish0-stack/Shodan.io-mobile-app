@@ -1,4 +1,24 @@
-chhchnbl# Shodan Mobile
+118
+
+Build helper scripts
+
+now
+
+119
+
+## Notes
+
+120
+
+This app is an unofficial client and uses your own Shodan account/API access.
+
+121
+
+Respect Shodan's terms of service and applicab le laws when querying infrastructure data.
+
+121 + Respect Shodan's terms of service and applicab le laws when querying infrastructure data. camera
+
+122 +camera accesschhchnbl# Shodan Mobile
 
 Mobile and web client for exploring Shodan data from your own API key.
 
